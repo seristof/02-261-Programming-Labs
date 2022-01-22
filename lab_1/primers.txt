@@ -1,0 +1,19 @@
+Universal [forward] primer: CAAATATCATTCTGAGGAGC
+Length 20, matches starting at base 408 to beef and pork and at base 411 to chicken.
+
+Chicken primer: AGTAATACCTGCGATTGCAAA
+Original genome that it attaches to: TTTGCAATCGCAGGTATTACT
+Length 21, matches chicken genome starting at base 561 as a reverse complement.
+
+Beef primer: ATGCAAATAGGAAGTACCACT
+Original genome that it attaches to: AGTGGTACTTCCTATTTGCAT
+Length 21, matches beef genome starting at base 811 as a reverse complement.
+
+Pork primer: AATAGGCATTGACTTAGTGGT
+Original genome that it attaches to: ACCACTAAGTCAATGCCTATT
+Length 21, matches pork genome starting at base 953 as a reverse complement.
+
+The expected lengths of the copied segments for each type of DNA are:
+Chicken - 171
+Beef - 424
+Pork - 566
